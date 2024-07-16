@@ -64,7 +64,7 @@ HR 管理系统是一个简单的在线招聘和人才管理系统，支持用�
 ### 1. 克隆代码库
 
 ```bash
-git clone https://github.com/your-repo/hr-management-system.git
+git clone https://github.com/dwkejiPeng/hr.git
 cd hr-management-system
 ```
 
