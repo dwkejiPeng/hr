@@ -140,10 +140,10 @@ CREATE TABLE applications (
 ```php
 <?php
 class Database {
-    private $host = "localhost";
-    private $db_name = "hr_dwkeji";
-    private $username = "hr_dwkeji";
-    private $password = "Davidgzs228919";
+    private $host = "";
+    private $db_name = "";
+    private $username = "";
+    private $password = "";
     public $conn;
 
     public function getConnection() {
